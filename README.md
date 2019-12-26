@@ -101,6 +101,7 @@
 
 - Java基础：集合、多线程、高并发、反射、Javassist、BIO、NIO
 - 框架：Spring、SpringMVC、MyBatis、springBoot、Netty、springData JPA
+- Redistribution
 - 数据库：MySQL
 - 中间件：Tomcat
 - 工具：Git、Linux、IDEA、eclipse、log4j、maven、JMeter
